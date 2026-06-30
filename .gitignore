@@ -3,3 +3,5 @@ src/
 node_modules/
 .staticrypt.json
 .DS_Store
+
+build.sh
